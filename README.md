@@ -1,14 +1,4 @@
 🚀 PostgreSQL Mastery Course
-
-
-
-
-
-
-
-
-
-
 A complete, hands-on PostgreSQL course designed to take you from zero to advanced database engineering.
 
 📌 Table of Contents
